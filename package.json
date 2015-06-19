@@ -1,0 +1,28 @@
+{
+  "name": "react-webpack-cookbook",
+  "version": "1.0.0",
+  "description": "Testing webpack and react",
+  "main": "./app/main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mac10688/react-webpack-cookbook.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "tutorial"
+  ],
+  "author": "Matthew Cooper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mac10688/react-webpack-cookbook/issues"
+  },
+  "homepage": "https://github.com/mac10688/react-webpack-cookbook#readme",
+  "devDependencies": {
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.9.11"
+  }
+}
